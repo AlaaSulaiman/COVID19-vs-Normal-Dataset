@@ -1,10 +1,18 @@
 # COVID19-vs-Normal Dataset
 
-Several CX-R images were carefully selected from different sources to create a relatively large-‎scale COVID-19 CX-R image dataset of confirmed infected cases. This dataset was named as ‎COVID19-vs-Normal and then mixed with some CX-R images of normal cases for a reliable ‎diagnosis of COVID-19 virus. The sources of the COVID19-vs-Normal dataset are as follows:‎
+Several CX-R images were carefully selected from different sources to create a relatively large-‎scale COVID-19 CX-R image dataset of confirmed infected cases. This dataset was named as COVID19-vs-Normal and then mixed with some CX-R images of normal cases for a reliable diagnosis of COVID-19 virus. The sources of the COVID19-vs-Normal dataset are as follows:‎
 
 - A set of 200 CX-R images with confirmed COVID-19 infection of [Cohen's GitHub repository](https://github.com/ieee8023/covid-chestxray-dataset).
 - A set of 200 COVID-19 CX-R images with confirmed COVID-19 infection gathered from three different sources: [Radiopaedia dataset](https://radiopaedia.org/search?lang=us&q=covid&scope=cases#collapse-by-diagnostic-certainties), [Italian Society of Medical and Interventional Radiology (SIRM)](https://www.sirm.org/en/italian-society-of-medical-and-interventional-radiology/), and [Radiological Society of North America (RSNA)](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data).
 - A set of 400 normal CX-R images from [Kaggle’s CX-R image Pneumonia dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia%20%20%20).‎
+
+Samples of the COVID-19 and normal cases of the large-scale COVID-19 X-ray images are shown in Fig. 1.
+
+   ![alt text](Some_Samples.jpg)
+   
+**Figure 1: Some samples of normal and COVID-19 infected cases from the created COVID19-vs-Normal dataset.**
+
+
 
 
 Please, if you used this dataset cite the paper belows:
